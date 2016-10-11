@@ -1,0 +1,35 @@
+1. All rights to this program belong to the author.
+
+2. You can use this program for free and without
+any restrictions.
+
+3. The program may be freely distributed in the
+the form in which it is delivered. You can not modify
+package contents. No one has the right to charge for
+distribution of large programs than direct reimbursement
+its reproduction (copy).
+
+4. The program is distributed on an "as is".
+It does not provide any warranty, express or
+implied. You use the program on your own
+risk. The author is not responsible for data loss, damage, loss
+profit or any other kind of loss from
+using (or misusing) or inability to
+Use of the program, although the author takes all measures
+to prevent the occurrence of such situations.
+
+5. Do not rent, lease, rent, sell
+program.
+
+6. Do not modify, decompile, disassemble the program.
+
+7. Installing and using software means
+agree to the terms of this license.
+
+8. If you do not agree with the terms of this license,
+We should abandon the use of the program and
+remove all program files
+with all your storage devices.
+
+-------------------------------------------------- -----------
+Copyright (C) Mangol Sergeu 2015-2016
